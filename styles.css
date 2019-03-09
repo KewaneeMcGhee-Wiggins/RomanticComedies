@@ -1,4 +1,35 @@
 .titlepage{
+    background-color: rgb(248,155,170);
+    color:white;
+}
+.margin-main{
+    margin-left:10px;
+    margin-right: 10px;
+}
+.color-links{
+    list-style-type: none;
+    color:red;
+}
+.color-links a{
+    color:red;
+   
+
+}
+.color-links li{
+    border:5px solid rgb(248, 155, 170);
+}
+/* need to code a color-border, make links red, and make text bigger  */
+.
+
+
+
+
+
+
+
+
+
+/* .titlepage{
     color: white;
    background-color:rgb(248,155,170);
    font-size: 12pt;
@@ -29,3 +60,4 @@ a{
  }
 
 
+ */
